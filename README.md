@@ -39,7 +39,7 @@ Sycoriaan is a leading name in the matrimonial industry, providing expert matchm
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Arbhisingh/sycoriaan.git
+    git clone https:[//github.com/Arbhisingh/sycoriaan.git](https://arbhisingh.github.io/sycoreian/)
     ```
 2. Navigate to the project folder:
     ```bash
